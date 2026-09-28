@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tide – Pomodoro Focus Timer</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+  <h1>Tide</h1>
+  <div class="modes" role="tablist">
+    <button class="mode active" data-mode="focus">Focus</button>
+    <button class="mode" data-mode="short">Short break</button>
+    <button class="mode" data-mode="long">Long break</button>
+  </div>
+
+  <div class="dial" id="dial">
+    <div class="water" id="water"></div>
+    <div class="time" id="time" aria-live="off">25:00</div>
+  </div>
+
+  <div class="controls">
+    <button id="start" class="primary">Start</button>
+    <button id="reset">Reset</button>
+  </div>
+
+  <p class="stats">Sessions completed today: <strong id="count">0</strong></p>
+
+  <details>
+    <summary>Settings</summary>
+    <label>Focus (min) <input type="number" id="s-focus" min="1" max="120" value="25"></label>
+    <label>Short break (min) <input type="number" id="s-short" min="1" max="60" value="5"></label>
+    <label>Long break (min) <input type="number" id="s-long" min="1" max="60" value="15"></label>
+  </details>
+</main>
+<script src="script.js"></script>
+</body>
+</html>
