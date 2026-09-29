@@ -48,7 +48,7 @@ focus-timer/
 
 ## Author
 
-Your Name – MCA, Chandigarh University
+Your Name – MCA, 
 
 ## License
 
