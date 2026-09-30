@@ -47,8 +47,7 @@ focus-timer/
 - Weekly stats chart
 
 ## Author
-
-Your Name – MCA, 
+ – MCA, 
 
 ## License
 
