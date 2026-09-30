@@ -42,8 +42,7 @@ focus-timer/
 
 ## Possible Improvements
 
-- Auto-cycle with a long break after every 4 focus sessions
-- Task list linked to sessions
+- Alist linked to sessions
 - Weekly stats chart
 
 ## Author
