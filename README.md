@@ -37,7 +37,8 @@ focus-timer/
 ## How It Works
 
 - `setInterval` ticks once per second and updates the display and the water level.
-- When the timer hits zero, it plays a tone, sends a notification, adds to today's count (focus only), and switches to the next m with the date, so it resets automatically each day.
+- When the timer hits zero, it plays a tone, sends a notification, adds to today's count (focus only), and switches to the next mode.
+- The session count is stored with the date, so it resets automatically each day.
 
 ## Possible Improvements
 
