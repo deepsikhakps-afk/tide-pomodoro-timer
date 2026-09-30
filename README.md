@@ -47,7 +47,7 @@ focus-timer/
 - Weekly stats chart
 
 ## Author
- Deepshikha – MCA, 
+Deepshikha – MCA, 
 
 ## License
 
