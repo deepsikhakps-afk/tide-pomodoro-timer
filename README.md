@@ -25,7 +25,7 @@ focus-timer/
 ├── script.js
 └── README.md
 ```
-## Screenshot
+## Screenshots
 ## How to Run
 
 1. Clone the repo:
