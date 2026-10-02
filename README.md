@@ -26,6 +26,8 @@ focus-timer/
 └── README.md
 ```
 ## Screenshots
+![alt text](image.png)
+
 ## How to Run
 
 1. Clone the repo:
