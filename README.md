@@ -6,7 +6,7 @@ A simple Pomodoro timer built with plain HTML, CSS and JavaScript. No database, 
 
 - Focus, short break and long break modes
 - Start / pause and reset
-- Adjustable durations (saved p in the settings panel)
+- Adjustable durations (saved per session in the settings panel)
 - Sound alert and browser notification when a session ends
 - Daily completed-session counter saved in `localStorage`
 - Live countdown in the browser tab title
