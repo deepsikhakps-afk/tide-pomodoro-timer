@@ -10,7 +10,7 @@ A simple Pomodoro timer built with plain HTML, CSS and JavaScript. No database, 
 - Sound alert and browser notification when a session ends
 - Daily completed-session counter saved in `localStorage`
 - Live countdown in the browser tab title
-- Responsive layout, kfocus styles, reduced-motion support
+- Responsive layout, keyboard focus styles, reduced-motion support
 
 ## Tech Stack
 
