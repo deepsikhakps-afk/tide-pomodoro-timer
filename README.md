@@ -14,7 +14,7 @@ A simple Pomodoro timer built with plain HTML, CSS and JavaScript. No database, 
 
 ## Tech Stack
 
-HTML5, CSS3, vanilla JavaScript (Web Audio API, Notifications API, localStorage)
+HTML5, CSS3,  (Web Audio API, Notifications API, localStorage)
 
 ## Project Structure
 
